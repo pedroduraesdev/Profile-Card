@@ -9,7 +9,7 @@ Proposto pelo professor Pedro Rafante, na instituição de ensino Proz Educaçã
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ## :arrow_forward: Confira como ficou a versão final.
-<a href="pedroduraesdev.github.io/Profile-Card/">Versão final.</a>
+<a href="https://pedroduraesdev.github.io/Profile-Card/">Versão final.</a>
 
 ## :dart: Status do projeto
 Completo ✅.
